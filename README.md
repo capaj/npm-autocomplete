@@ -1,6 +1,7 @@
 # npm-autocomplete package
 
 Autocomplete NPM packages in atom when writing require statements.
+In order to get completions, your package.json must be located in the root directory of your atom project.
 
 TODO: 
 1. autocomplete all packages, not just those in package.json 
