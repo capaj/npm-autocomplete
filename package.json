@@ -1,0 +1,22 @@
+{
+  "name": "npm-autocomplete",
+  "main": "./lib/npm-autocomplete",
+  "version": "0.0.0",
+  "description": "atom editor autocomplete-plus provider for writing require statements to npm packages",
+  "repository": "https://github.com/atom/npm-autocomplete",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fuzzaldrin": ">=2.1.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "provide"
+      }
+    }
+  }
+}
