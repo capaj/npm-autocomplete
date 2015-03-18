@@ -1,7 +1,7 @@
 {
   "name": "npm-autocomplete",
   "main": "./lib/npm-autocomplete",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "atom editor autocomplete-plus provider for writing require statements to npm packages",
   "repository": "https://github.com/capaj/npm-autocomplete",
   "license": "MIT",
