@@ -1,3 +1,6 @@
+#Deprecation notice
+As this package hasn't been updated to work with latest Atom, I urge you to use https://atom.io/packages/autocomplete-modules instead
+
 # npm-autocomplete package
 
 Autocomplete NPM packages in atom when writing require statements.
